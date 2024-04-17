@@ -1,2 +1,2 @@
 
-print("kikkikoiko")
+print("kikkikoikjijiooooooo")
