@@ -1,2 +1,2 @@
 
-print("SALAMOLUKOM KOUKOU")
+print("bonjour KOUKOU")
